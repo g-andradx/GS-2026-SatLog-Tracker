@@ -2,7 +2,7 @@
 
 ## Nome do Grupo
 
-[Nome do Grupo]
+GRUPO SATLOG
 
 ### 👨‍🎓 Integrantes
 
