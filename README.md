@@ -8,15 +8,6 @@ GRUPO SATLOG
 
 # GUSTAVO ANDRADE RM564102
 
-### 👩‍🏫 Professores
-
-**Tutor(a):**
-
-* Nome do Tutor
-
-**Coordenador(a):**
-
-* Nome do Coordenador
 
 ---
 
