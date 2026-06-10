@@ -83,7 +83,8 @@ https://github.com/g-andradx/GS-2026-SatLog-Tracker
 
 ## Link do Vídeo
 
-[Inserir link do YouTube]
+https://youtu.be/zp6RvReJ_jU
+
 
 ## Decisões Técnicas
 
